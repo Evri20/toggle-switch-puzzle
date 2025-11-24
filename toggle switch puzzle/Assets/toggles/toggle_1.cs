@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class toggle_1 : MonoBehaviour
 {
-    public bool ison;
+   public bool ison;
 }
